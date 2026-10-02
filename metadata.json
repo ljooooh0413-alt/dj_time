@@ -1,0 +1,6 @@
+{
+  "name": "대진전자통신고등학교 시간표 시스템 & PRD",
+  "description": "교육부 NEIS 오픈 API를 연동한 대진전자통신고등학교 학년별·학급별 실시간 시간표 시스템 및 제품 기획서(PRD)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
